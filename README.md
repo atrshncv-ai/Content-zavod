@@ -365,3 +365,8 @@ Google Sheets/Drive.
 ## Лицензия
 
 В репозитории не указана.
+
+## License / Лицензия
+
+Released under the MIT License. See [LICENSE](LICENSE).
+Проект распространяется по лицензии MIT. См. [LICENSE](LICENSE).
